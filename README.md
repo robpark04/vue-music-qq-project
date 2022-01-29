@@ -32,6 +32,5 @@ http://weixin.nmict.cn/vue-music-qq/
 
 # Conatct
 
-- Tencent QQ: 342878509
-- E-mail: xiongmao1114@163.com
-- Github: https://github.com/pluto1114/vue-music-qq
+- E-mail: robpark04@gmail.com
+- Github: https://github.com/robpark04/vue-music-qq-project
